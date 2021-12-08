@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Đừng hòng đi ra nhé :)))',
-    messDesc: 'Ở lại và nói về hình mẫu lý tưởng của cậu đi :3',
+    messDesc: 'Tặng cậu 1 con mèo, ấn oki để nhận nhé :3',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/nth.trangg39'
 }
